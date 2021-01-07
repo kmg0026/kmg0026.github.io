@@ -3,7 +3,7 @@ import png
 from pyqrcode import QRCode
 
 
-s = "https://kmg0026.github.io/"
+s = "https://iithelp.vetmed.auburn.edu/kris/static/index.html"
 
 url = pyqrcode.create(s)
 
